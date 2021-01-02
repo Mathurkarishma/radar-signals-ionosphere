@@ -1,6 +1,4 @@
-# DATA 630
-# Assignment 5
-# Written by Karishma Mathur
+# This script will go through clustering the ionosphere dataset
 
 # Load cluster package
 library("cluster")
