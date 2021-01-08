@@ -68,7 +68,7 @@ The code guides you through the following:
 2. Visualizing the formatting of the variables (datatypes, number of rows/columns, measures of central tendancy, statistical descriptions, etc.)
 3. Pre-processing such as cleanup (removing irrelevant variables, check for missing variables), importing libraries, and normalization (scaling the variables)
 4. Set the seed to allow for reproducability and split the dataset into a training set and test set
-5. Perform the K-means clustering algorithm
+5. Perform the K-means clustering algorithm, running one round at a time
 6. Evaluate the accuracy through cross-tabulation and visually plotting clusters
 7. Change parameters to improve accuracy (our goal is to minimize the sum of squared distances within the cluster while maximizing the sum of squared distances between clusters)
 
